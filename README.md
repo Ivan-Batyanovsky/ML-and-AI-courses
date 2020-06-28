@@ -14,6 +14,10 @@
 целевого признака от выбранных признаков. В отчете описать все проблемы, с
 которыми вы столкнулись и выбранные подходы к их решению
 
+[Первый датасет](https://github.com/Ivan-Batyanovsky/ML-course/tree/master/ExamsRes)
+
+[Второй датасет](https://github.com/Ivan-Batyanovsky/ML-course/tree/master/Insurance)
+
 ### Lab2:
 
 Необходимо реализовать алгоритмы машинного обучения. Применить данные
