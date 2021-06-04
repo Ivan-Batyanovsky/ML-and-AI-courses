@@ -31,4 +31,3 @@
 2) [KNN](https://github.com/Ivan-Batyanovsky/ML-course/blob/master/lab2/My_KNN.ipynb)
 3) [SVM](https://github.com/Ivan-Batyanovsky/ML-course/blob/master/lab2/%E0%B2%A0_%E0%B2%A0SVM_PLEASE_WORK%E0%B2%A0_%E0%B2%A0.ipynb)
 4) [ДЕРЕВО РЕШЕНИЙ](https://github.com/Ivan-Batyanovsky/ML-course/blob/master/lab2/ITS_ACTUALY_WORKING_POG_CHUMP.ipynb)
-5) RANDOM FOREST
